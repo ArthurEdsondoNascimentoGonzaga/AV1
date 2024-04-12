@@ -37,15 +37,23 @@ Em 2015 foi lançado pela Microsoft um editor de código destinado ao desenvolvi
 #LINKS:
 ##GIT:
 https://www.atlassian.com/br/git/tutorials/what-is-git#:~:text=O%20Git%20%C3%A9%20um%20projeto,e%20de%20c%C3%B3digo%2Dfonte%20aberto.
+
 https://ebaconline.com.br/blog/o-que-e-github#:~:text=Git%20%C3%A9%20um%20software%20de,pessoas%20em%20um%20reposit%C3%B3rio%20compartilhado.
+
 https://github.com/ArthurEdsondoNascimentoGonzaga/AV1/assets/164903811/7285a23a-7cd4-4660-8b1f-428e9a3189b4
+
 ##GITHUB:
 https://github.com/ArthurEdsondoNascimentoGonzaga/AV1/assets/164903811/59a2e8f0-6426-46fb-a058-d20201d5e827
+
 https://learn.microsoft.com/pt-br/contribute/content/git-github-fundamentals
+
 https://ebaconline.com.br/blog/o-que-e-github#:~:text=O%20que%20%C3%A9%20GitHub%20e,faz%20o%20registro%20de%20mudan%C3%A7as.
+
 ##VSCODE:
 https://github.com/ArthurEdsondoNascimentoGonzaga/AV1/assets/164903811/bde20d73-7383-424e-a48a-6872515a0e3f
+
 https://www.treinaweb.com.br/blog/vs-code-o-que-e-e-por-que-voce-deve-usar
+
 https://www.devmedia.com.br/introducao-ao-visual-studio-code/34418
 
 
